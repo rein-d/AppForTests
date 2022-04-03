@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">App For Tests</string>
+    <string name="startTitle">My App for tests</string>
+    <string name="correctionButton">make correction receipt</string>
+    <string name="zreportButton">close session</string>
 </resources>
