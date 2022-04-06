@@ -26,4 +26,10 @@
         android:layout_height="wrap_content"
         android:text="@string/zreportButton"/>
 
+    <Button
+        android:id="@+id/errorButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/errorButton"/>
+
 </LinearLayout>

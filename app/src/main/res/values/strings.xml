@@ -3,4 +3,5 @@
     <string name="startTitle">My App for tests</string>
     <string name="correctionButton">make correction receipt</string>
     <string name="zreportButton">close session</string>
+    <string name="errorButton">error</string>
 </resources>

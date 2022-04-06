@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906749296410",
+    "project_id": "appfortests2022",
+    "storage_bucket": "appfortests2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906749296410:android:20714920cc8e282ed3f6a3",
+        "android_client_info": {
+          "package_name": "com.rein.android.appfortests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906749296410-u29ehnh0oqkiq129rehpofj1shhv4rj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxG18NN3w2eKvLB_Jr514DU0icD58Y86M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906749296410-u29ehnh0oqkiq129rehpofj1shhv4rj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

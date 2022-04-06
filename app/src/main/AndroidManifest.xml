@@ -3,6 +3,7 @@
     package="com.rein.android.appfortests">
 
     <uses-permission android:name="ru.evotor.permission.PRINT_Z_REPORT" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
