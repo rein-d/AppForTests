@@ -3,12 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/d.reyn/Documents/AndroidStudioProjectsEvotor123/AppForTests/app/src/main/res/layout/fragment_start.xml" value="0.2694746376811594" />
         <entry key="..\:/Users/rein_d/AndroidStudioProjects/AppForTests/app/src/main/res/layout/activity_main.xml" value="0.3473731884057971" />
         <entry key="..\:/Users/rein_d/AndroidStudioProjects/AppForTests/app/src/main/res/layout/fragment_start.xml" value="0.529891304347826" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

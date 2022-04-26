@@ -32,4 +32,17 @@
         android:layout_height="wrap_content"
         android:text="@string/errorButton"/>
 
+    <Button
+        android:id="@+id/sellReceiptButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sellReceiptButton"/>
+
+    <Button
+        android:id="@+id/printReceiptButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/printReceiptButton"/>
+
+
 </LinearLayout>
