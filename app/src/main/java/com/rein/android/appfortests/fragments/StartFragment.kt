@@ -22,7 +22,7 @@ class StartFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = FragmentStartBinding.inflate(inflater, container, false)
         binding.correctionButton.setOnClickListener { HttpRequest.newRequest() }
         binding.zreportButton.setOnClickListener { closeSession() }
